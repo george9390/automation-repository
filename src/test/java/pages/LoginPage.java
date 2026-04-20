@@ -14,6 +14,7 @@ public class LoginPage {
     // Constructor
     public LoginPage(WebDriver driver) {
         this.driver = driver;
+        System.out.println("hello");
     }
 
     // Public methods to access private data
