@@ -3,7 +3,9 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class LoginPage {
+
+
+public class LoginPage  {
 	private WebDriver driver;
 
     // Locators are private (data hidden)
@@ -14,7 +16,6 @@ public class LoginPage {
     // Constructor
     public LoginPage(WebDriver driver) {
         this.driver = driver;
-        System.out.println("hello");
     }
 
     // Public methods to access private data
