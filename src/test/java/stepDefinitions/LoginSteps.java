@@ -73,7 +73,7 @@ public WebDriver driver;
 		
 	   String text = driver.findElement(By.xpath("//a[text()='ProtoCommerce Home']")).getText();
 	   System.out.println(text);
-	   Assert.assertEquals(text, "ProtoCommerce Home1");
+	   Assert.assertEquals(text, "ProtoCommerce Home");
 	}
 	
 	@After
