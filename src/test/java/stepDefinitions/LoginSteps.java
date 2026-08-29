@@ -58,6 +58,7 @@ public WebDriver driver;
 		LoginPage lp = new LoginPage(driver);
 	    lp.enterUsername(uname);
 	    lp.enterPassword("Learning@830$3mK2");
+		System.out.println("hello");
 	   
 	}
 
