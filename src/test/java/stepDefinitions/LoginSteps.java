@@ -62,6 +62,7 @@ public WebDriver driver;
 		System.out.println("new changes made to master");
 
 		System.out.println("Scot's new changes");
+		System.out.println("making changes on top of Scot's changes");
 
 	}
 
