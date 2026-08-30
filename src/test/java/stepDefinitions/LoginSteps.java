@@ -59,6 +59,7 @@ public WebDriver driver;
 	    lp.enterUsername(uname);
 	    lp.enterPassword("Learning@830$3mK2");
 		System.out.println("this  version to branch");
+		System.out.println("Scot's new changes");
 	   
 	}
 
