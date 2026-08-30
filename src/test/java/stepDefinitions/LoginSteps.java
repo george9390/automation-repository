@@ -61,7 +61,8 @@ public WebDriver driver;
 		System.out.println("this  version to branch");
 		System.out.println("new changes made to master");
 
-	   
+		System.out.println("Scot's new changes");
+
 	}
 
 	@When("I click on submit button")
